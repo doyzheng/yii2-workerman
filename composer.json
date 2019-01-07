@@ -8,7 +8,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "doyzheng\\yii2-workerman\\": "src/"
+            "doyzheng\\yii2workerman\\": "src/"
         }
     },
     "require": {
